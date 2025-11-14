@@ -1,0 +1,14 @@
+{
+	"pack": {
+		"pack_format": 96,
+		"min_format": 15,
+		"max_format": 1000,
+		"description": [
+			{
+				"text": "Noopy server pack",
+				"color": "white"
+			}
+		],
+		"supported_formats": [15, 1000]
+	}
+}
